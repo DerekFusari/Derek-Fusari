@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerekFusari
+- 👋 Hi, I’m Derek
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me derek.fusari@gmail.com
